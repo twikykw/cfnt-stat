@@ -1,12 +1,7 @@
 [
   {
     "name": "Node 1 • Latvia",
-    "status": "online",
-    "ping": "~30 ms"
-  },
-  {
-    "name": "Node 2 • Latvia",
     "status": "soon",
-    "ping": "~"
+    "ping": "0 ms"
   }
 ]
