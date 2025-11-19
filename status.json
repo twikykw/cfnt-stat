@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Node 1 • Latvia",
+    "status": "online",
+    "ping": "~30 ms"
+  },
+  {
+    "name": "Node 2 • Netherlands",
+    "status": "soon",
+    "ping": "-"
+  },
+  {
+    "name": "Node 3 • Switzerland",
+    "status": "soon",
+    "ping": "Wait"
+  }
+]
