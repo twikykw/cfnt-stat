@@ -3,10 +3,5 @@
     "name": "Node 1 • Latvia",
     "status": "online",
     "ping": "~30 ms"
-  },
-  {
-    "name": "Node 2 • Latvia",
-    "status": "online",
-    "ping": "~30 ms"
   }
 ]
